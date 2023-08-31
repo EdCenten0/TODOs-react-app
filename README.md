@@ -1,5 +1,5 @@
 <div>
-    <h1>TheAnimeDB</h1> 
+    <h1>TODOs React App</h1> 
     <p align="left">
         <img src="https://img.shields.io/badge/STATUS-FINISHED%20-blue">
     </p>
