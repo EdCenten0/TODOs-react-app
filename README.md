@@ -33,7 +33,6 @@
         <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg" alt="CSS3" width="90px"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-plain.svg" alt="Javascript" width="90px"/>
         <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="React" width="90px"/>
-      
     </div>
 </div>
 
