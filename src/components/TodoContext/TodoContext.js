@@ -71,12 +71,3 @@ function TodoProvider({ children }) {
 }
 
 export { TodoContext, TodoProvider };
-// const defaultTodos = [
-//   { text: "Cortar Cebolla", completed: true },
-//   { text: "Website en React", completed: true },
-//   { text: "Website using node", completed: true },
-//   { text: "SISII", completed: false },
-// ];
-
-// localStorage.setItem("TODOS_V1", defaultTodos);
-// localStorage.removeItem("TODOS_V1")
